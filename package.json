@@ -1,0 +1,23 @@
+{
+  "name": "lolxd",
+  "version": "0.0.2",
+  "description": "Jokes on your command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadhagod/lolxd.git"
+  },
+  "author": "GadhaGod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gadhagod/lolxd/issues"
+  },
+  "homepage": "https://github.com/gadhagod/lolxd#readme",
+  "dependencies": {
+    "request": "2.88.2"
+  },
+  "bin": "./index.js"
+}
